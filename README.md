@@ -1,6 +1,6 @@
 ##  Hi, I’m Daniel
 
-I’m currently **learning programming** and building a strong foundation in web and software development.
+I’m currently **learning programming** and building a strong foundation in web and software development at 42 Tirana.
 
 ---
 
